@@ -1,0 +1,10 @@
+git --version
+
+git init
+
+git add .
+
+git status
+
+git remote add origin https://github.com/MJaman786/Git_Commands.git
+
