@@ -11,3 +11,5 @@ git remote add origin https://github.com/MJaman786/Git_Commands.git
 git commit -m "First Commit"
 
 git status
+
+git push -u origin master
